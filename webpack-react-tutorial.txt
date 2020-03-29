@@ -1,0 +1,21 @@
+
+--- webpack-react-tutorial
+
+git init
+git remote add origin https://github.com/ghb555/WebPackReact.git
+git add --all
+git commit -m "first commit"
+git push -u origin master
+
+.gitignore
+https://www.atlassian.com/git/tutorials/saving-changes/gitignore#git-ignore-patterns
+
+ƒл€ запуска:
+dist/index.html
+не запускаетс€
+
+¬вести в командной строке (из папки проекта): npm start
+Webpack д. запустить ваше приложение в браузере.
+
+npm run build
+работает
