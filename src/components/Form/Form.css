@@ -1,0 +1,6 @@
+.test-form {
+  padding: 8px;
+  background: linear-gradient(45deg, lightgray, white);
+  display: inline-block;
+  border: 1px solid #c3c3c3;
+}
