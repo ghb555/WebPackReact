@@ -1,2 +1,4 @@
 node_modules
-/webpack-react-tutorial.txt
+# /webpack-react-tutorial.txt
+# *.txt
+webpack-react-tutorial.txt
