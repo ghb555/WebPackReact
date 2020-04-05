@@ -26,4 +26,5 @@ git pull --rebase
 npm install
 
 some text for test
+some text for test 2
 
