@@ -7,8 +7,8 @@ git add --all
 git commit -m "first commit"
 git push -u origin master
 
-.gitignore
-https://www.atlassian.com/git/tutorials/saving-changes/gitignore#git-ignore-patterns
+Сайт на github pages
+https://ghb555.github.io/WebPackReact/index.html
 
 Для запуска:
 dist/index.html
@@ -18,4 +18,10 @@ dist/index.html
 Webpack д. запустить ваше приложение в браузере.
 
 npm run build
-работает
+http://127.0.0.1:5500/dist/index.html
+
+git pull --rebase
+
+Установка компонентов для проекта в соответствии с файлом package.json
+npm install
+
