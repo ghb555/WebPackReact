@@ -25,3 +25,5 @@ git pull --rebase
 ��������� ����������� ��� ������� � ������������ � ������ package.json
 npm install
 
+test 1
+
