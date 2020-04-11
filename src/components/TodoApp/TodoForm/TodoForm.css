@@ -1,0 +1,23 @@
+.todo-form {
+  padding: 8px;
+}
+
+.todo-form input,
+.todo-form button {
+  background: white;
+  border: 1px solid #cccccc;
+  padding: 4px;
+}
+.todo-form input {
+  min-width: 300px;
+}
+
+.todo-form button {
+  margin-left: 12px;
+  padding: 4px 16px;
+  font-weight: bold;
+}
+.todo-form input:focus,
+.todo-form button:focus {
+  outline: 1px solid orange;
+}

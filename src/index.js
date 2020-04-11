@@ -1,5 +1,5 @@
 import ReactDOM from "react-dom";
 import React from "react";
-import Form from "./components/Form/Form";
+import TodoApp from "./components/TodoApp/TodoApp.jsx";
 
-ReactDOM.render(<Form />, document.getElementById("container"));
+ReactDOM.render(<TodoApp />, document.getElementById("container"));

@@ -1,0 +1,11 @@
+a.delete-action-link {
+  color: red;
+  text-decoration: underline;
+  cursor: pointer;
+  margin-left: 16px;
+}
+
+.todo-item {
+  margin: 4px;
+  font-family: Arial, Helvetica, sans-serif;
+}
